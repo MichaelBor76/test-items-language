@@ -1,5 +1,5 @@
 # test-items-language
-Запуск автотестов для разных языков интерфейса
+Running automated tests for different interface languages
 
     1. Create a GitHub repository that will contain the files conftest.py and test_items.py.
     2. Add a handler to the conftest.py file that reads the language parameter from the command line.
